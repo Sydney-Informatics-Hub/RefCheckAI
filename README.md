@@ -21,6 +21,9 @@ AI Reference Checker automates citation validation for AI-generated content and 
 - [Training Data](https://unisyd-my.sharepoint.com/:u:/g/personal/sebastian_haan_sydney_edu_au/EQEdkLfq7HZIsaUsjcjoig0ByVSJNOsvWnSrtxFcp5e7zw?e=vyd2AC)
 - [Fine-tuned Llama-3.1-8B Model](https://unisyd-my.sharepoint.com/:u:/g/personal/sebastian_haan_sydney_edu_au/ETvuPpmLDoZDtOvQR52VorEB4xgAWVV2CmmG9tGE0NGsdg?e=N6VRTi)
 
+## PDF Docs
+<a href="Reference_checker_app.pdf" class="image fit"><img src="https://github.com/user-attachments/assets/5f979be8-4cb3-4d12-b753-47d32fe52750" alt=""></a>
+
 ## Team
 
 <img width="1057" alt="Team" src="https://media.github.sydney.edu.au/user/292/files/1206735b-ce3a-430b-9d51-66c87e5fe72b">
