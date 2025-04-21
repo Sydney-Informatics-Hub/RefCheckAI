@@ -24,6 +24,27 @@ AI Reference Checker automates citation validation for AI-generated content and 
 ## PDF Docs
 <a href="Reference_checker_app.pdf" class="image fit"><img src="https://github.com/user-attachments/assets/5f979be8-4cb3-4d12-b753-47d32fe52750" alt=""></a>
 
+
+## Get Involved: Early Access
+
+Ready to put the AI Citation Checker through its paces? 
+
+Our AI Citation Checker will be made available for early testing. We're looking for researchers and academics to try the tool and share feedback. Early users will help shape the product and receive priority support.
+
+**Register your interest for early access using the form below:**
+
+<iframe
+  src="https://docs.google.com/forms/d/e/1FAIpQLSek82aL3YxeiVGcupaLlM_JWkefY_DNFbCuc_UYzaKxc-5KGw/viewform?usp=preview"
+  width="100%"
+  frameborder="0"
+  marginheight="0"
+  marginwidth="0">
+  Loading registration form… Please ensure JavaScript is enabled, or visit the form directly [https://docs.google.com/forms/d/e/1FAIpQLSek82aL3YxeiVGcupaLlM_JWkefY_DNFbCuc_UYzaKxc-5KGw/viewform?usp=preview]
+</iframe>
+
+We appreciate your interest in helping us build a more robust tool for the research community!
+
+
 ## Team
 
 <img width="1057" alt="Team" src="https://media.github.sydney.edu.au/user/292/files/1206735b-ce3a-430b-9d51-66c87e5fe72b">
