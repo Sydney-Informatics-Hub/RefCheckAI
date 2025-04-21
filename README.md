@@ -36,6 +36,7 @@ Our AI Citation Checker will be made available for early testing. We're looking 
 <iframe
   src="https://docs.google.com/forms/d/e/1FAIpQLSek82aL3YxeiVGcupaLlM_JWkefY_DNFbCuc_UYzaKxc-5KGw/viewform?usp=preview"
   width="100%"
+  height="1024"
   frameborder="0"
   marginheight="0"
   marginwidth="0">
