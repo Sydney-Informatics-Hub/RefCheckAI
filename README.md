@@ -1,9 +1,10 @@
 # AI Reference Checker
 
+<img width="800" alt="Overview" src="https://github.com/user-attachments/assets/54f33585-f0a8-4d7d-82d4-056b4a623fa1">
+
 AI Reference Checker automates citation validation for AI-generated content and academic research. It uses a custom model trained on a reference dataset to compare citation statements to source texts. This tool accelerates verification, improves accuracy, and provides contextual snippets for deeper understanding, transforming manual processes into an efficient automated workflow.
 
-<img width="800" alt="Overview" src="https://media.github.sydney.edu.au/user/292/files/4670e810-313c-4ab9-bb5b-9cbc0d9ad3de">
-
+<img width="800" alt="user-interface-functionality-semantic-citation-validation-app" src="https://github.com/user-attachments/assets/6becb48c-b68c-4dda-aff0-f6d251d40541">
 
 ## Key Features
 
@@ -13,8 +14,9 @@ AI Reference Checker automates citation validation for AI-generated content and 
 - Improves research accuracy, quality, and reproducibility
 - Easy-to-use web app interface
 
-<img width="800" alt="classification_schema" src="https://media.github.sydney.edu.au/user/292/files/dbdda8f1-f02a-4eb2-8848-bd75aebdd944">
+<img width="800" alt="classification_schema" src="https://github.com/user-attachments/assets/65005cb4-78a5-469b-a5f1-1cc3e6b36204">
 
+<img width="800" alt="reasoning_evidence" src="https://github.com/user-attachments/assets/d34def87-4e99-4071-9efa-4ac4386fa510">
 
 ## Resources
 
